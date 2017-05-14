@@ -62,4 +62,3 @@ FILES_${PN} += "\
     "
 
 SYSTEMD_SERVICE_${PN} = "automotivedemo.service"
-SYSTEMD_AUTO_ENABLE = "disable"

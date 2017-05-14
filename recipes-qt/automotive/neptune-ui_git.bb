@@ -62,3 +62,4 @@ FILES_${PN} += "\
     "
 
 SYSTEMD_SERVICE_${PN} = "neptune.service"
+SYSTEMD_AUTO_ENABLE = "disable"
